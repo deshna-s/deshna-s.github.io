@@ -4,6 +4,6 @@
 
 3. After that is done, it will change the Github Pages Settings where we can see deshnashah.com
 
-4. Change the custom domain and if empty make it deepfuriya.com
+4. Change the custom domain and if empty make it deshnashah.com
 
 5. Wait for some time and we can see the changes on the server....
